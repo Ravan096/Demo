@@ -1,7 +1,5 @@
 # Simple Zodiac Lucky color generator
-# Getting Started with Create React App
-
-This project was 
+# Getting Started with html css and javascript 
 
 ## Available Scripts
 
