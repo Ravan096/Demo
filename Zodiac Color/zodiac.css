@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+h1{
+    background-color:black;
+    color: red;
+    text-align: center;
+    margin: 1% 0;
+    padding: 10px;
+}
+select,
+button{
+    background-color:black;
+    color: red;
+    text-align: center;
+    margin: 1% 0;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button{
+    background-color: blue;
+    color: white;
+}
